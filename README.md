@@ -12,3 +12,9 @@
 
 ## Cool tricks?
 - TBD
+
+## Started 
+- 12/4/18
+
+## Completed 
+- TBD
